@@ -103,10 +103,11 @@ section h2:before {
 }
 .right-links a {
   font-family: sans-serif;
+  font-size: 25px;
   font-weight: 600;
   text-decoration: none;
   color: #fff;
   background: linear-gradient(#020238, #0097eb);
-  padding: 15px 40px;
+  padding: 30px 60px;
   border-radius: 30px;
 }
