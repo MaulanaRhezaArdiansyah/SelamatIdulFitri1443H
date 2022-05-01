@@ -94,3 +94,19 @@ section h2:before {
   width: 100%;
   height: 100%;
 }
+.right-links {
+  position: absolute;
+  top: 30px;
+  right: 30px;
+  display: flex;
+  align-items: center;
+}
+.right-links a {
+  font-family: sans-serif;
+  font-weight: 600;
+  text-decoration: none;
+  color: #fff;
+  background: linear-gradient(#020238, #0097eb);
+  padding: 15px 40px;
+  border-radius: 30px;
+}
